@@ -33,4 +33,4 @@ Data Source: Amazon product sales dataset
 
 Metrics: Sales (YTD & QTD), Product Sales, Reviews
 
-SNAPSHOT OF DASHBOARD:
+SNAPSHOT OF DASHBOARD:https://github.com/sagarpujarmanjunth/Amazon-Sales-and-Analysis-in-Power-bi/blob/main/sales%20analysis%20amazon%20dashboard.png
